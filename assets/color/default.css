@@ -1,0 +1,254 @@
+::-moz-selection {
+  background: #eb9100;
+  color: #fff;
+  text-shadow: none;
+}
+::selection {
+  background: #eb9100;
+  color: #fff;
+  text-shadow: none;
+}
+
+
+a {
+	color: #eb9100;
+}
+
+a:hover {
+	color:#e18700;
+}
+
+footer .nav-list li a:hover,footer ul.regular li a:hover  {
+	color:#e18700;
+}
+
+.btn-link:hover {
+  color: #e18700;
+}
+
+.btn-color {
+  background: #eb9100;
+	border: 1px solid #eb9100;
+  *background: #e18700;
+}
+.btn-color:hover,
+.btn-color.active,
+.btn-color.disabled,
+.btn-color[disabled] {
+  background: #e18700;
+  *background: #e18700;
+}
+
+/* sequence slider */
+
+.info  h1{
+	background: #eb9100;
+}
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color: #eb9100;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: #eb9100;
+}
+
+/* header */
+.navbar .nav li.active {
+	border-top:5px solid #eb9100;
+
+}
+.navbar .nav li.active a {
+	color:#eb9100;
+}
+
+.navbar .nav li ul.dropdown-menu li a:hover, .navbar .nav li.active ul.dropdown-menu li a:hover  {
+	background:#eb9100;
+
+}
+.color {
+	background: #eb9100;
+	color:#fff;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #eb9100;
+  outline: 0;
+  outline: thin dotted \9;
+  /* IE6-9 */
+
+}
+
+/* sequence slider */
+.sequence-nav .next:hover,.sequence-nav .prev:hover {
+	background: #eb9100;
+}
+
+/* breadcrumb */
+.breadcrumb {
+
+}
+
+
+/* accordion */
+.accordion-heading a:hover {
+	color: #eb9100;
+}
+.accordion-heading .active{
+	color: #eb9100;
+}
+
+/* pricing box */
+.priceBox.special .emphasis {
+  background: #eb9100;
+}
+
+/* tagline */
+.tagline {
+	border-bottom:5px solid #eb9100;
+	border-top:5px solid #eb9100;
+}
+
+
+
+/* button */
+.btn-link {
+	color: #eb9100;
+}
+
+.nav .dropdown-toggle .caret {
+  margin-top: 6px;
+  border-top-color: #eb9100;
+  border-bottom-color: #eb9100;
+}
+
+
+
+/* tabs */
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover {
+  color: #ffffff;
+  background-color: #eb9100;
+}
+
+/* accordion */
+.accordion-heading a.accordion-toggle:hover {
+	color: #eb9100;
+}
+
+/* label */
+.label-orange,
+.badge-orange {
+  background-color: #eb9100;
+}
+
+
+/* nav */
+.nav-list > .active > a,
+.nav-list > .active > a:hover {
+  background: #eb9100;
+}
+
+
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover {
+  background: #eb9100;
+}
+
+.nav .dropdown-toggle .caret {
+  border-top-color: #eb9100;
+  border-bottom-color: #eb9100;
+}
+
+/* custom progress bar according template skin */
+.progress-orange .bar,
+.progress .bar-orange {
+  background: #eb9100;
+}
+
+.progress-orange.progress-striped .bar,
+.progress-striped .bar-orange {
+  background: #eb9100;
+}
+
+/* pagination */
+
+.pagination ul li a:hover {
+  background: #eb9100;
+  border-color:#eb9100;
+}
+
+
+/* widget */
+aside .widget ul.cat li a:hover {
+	color: #eb9100;
+}
+
+aside .widget ul.recent-posts li a:hover {
+	color: #eb9100;
+}
+
+/* article */
+
+.entry-body a h5.title:hover {
+	color: #eb9100;
+}
+
+article.blog-post .post-heading h3 a:hover {
+	color:#eb9100;
+}
+
+article.last-post {
+	background: #eb9100;
+}
+
+ul.time-post li.year{
+	border-bottom:1px solid #eb9100;
+}
+
+section#subintro {
+	background: #eb9100;
+}
+
+
+ /* 404 */
+
+
+.error-body{
+	background:#eb9100;
+	padding:20px;
+	text-align:center;
+}
+
+
+/* misc */
+a.thumbnail:hover {
+  border-color: #eb9100;
+}
+
+ul.filter li.active a:hover,.flex-control-nav li a:hover, .flex-control-nav li a.active{
+	background: #eb9100;
+}
+
+.thumbnail h4 a:hover, .thumbnail .meta  span a:hover, ul.recent li h6 a:hover, ul.post-meta li a:hover, .media-body span, .media-body .media-heading a:hover, form label span, article.last-post h5 a:hover{
+	color: #eb9100;
+	text-decoration:none;
+}
