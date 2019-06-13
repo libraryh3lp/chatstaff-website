@@ -1,6 +1,6 @@
 # chatstaff-website
 
-Rendered version is at:  https://libraryh3lp.github.io/chatstaff-website/services.html
+Rendered version is at:  https://libraryh3lp.github.io/chatstaff-website/
 
 Changes to the code repo take a couple of minutes to show up in rendered version.
 
