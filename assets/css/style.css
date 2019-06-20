@@ -95,14 +95,12 @@ img.left {
 /* logo */
 
 header .navbar .brand.logo {
-  padding: 0;
+  height: auto;
   margin-left: 0;
   margin-bottom: 5px;
   margin-top: 5px;
-}
-header .navbar .brand.logo img {
-  height: 75px;
-  width: 313px;
+  padding: 0;
+  width: 25%;
 }
 
 /* header */
