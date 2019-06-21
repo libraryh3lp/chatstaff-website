@@ -6,4 +6,4 @@ Changes to the code repo take a couple of minutes to show up in rendered version
 
 Font Awesome 3.2.1 Cheatsheet is handy: https://fontawesome.com/v3.2.1/icons/
 
-Production site last updated 2019-06-20 3:55pm.  https://chatstaff.org/
+Production site last updated 2019-06-21 11:06am.  https://chatstaff.org/
