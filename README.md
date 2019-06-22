@@ -4,9 +4,9 @@ Rendered version is at:  https://libraryh3lp.github.io/chatstaff-website/
 
 Changes to the code repo take a couple of minutes to show up in rendered version. Changes made here on GitHub will NOT automatically go to production at this time.
 
-**Font Awesome info.** 
+**Font Awesome info** 
 
-I noted the wrong FA version here originally.  The site's theme originally shipped with FA 3.0.2 (http://www.costaenzosrl.com/font-awesome-icons.html) which is older than I had said.  It does not really have a whole bunch of fonts.
+I noted the wrong FA version here originally.  The site's theme originally shipped with FA 3.0.2 (http://www.costaenzosrl.com/font-awesome-icons.html) which is older than I had said.  It does not really have a whole bunch of icons.
 
 I added the current free version of FA (5.0.9) on top of the existing one, so that we could add new ones and not break old ones in the process.  Cheatsheet: https://fontawesome.com/icons?d=gallery&m=free  
 
