@@ -11,10 +11,13 @@ I added the current free version of FA (5.0.9) on top of the existing one, so th
 
 In order to get the black-on-hover, the New Way is like this:
   
- `<span class="fa-stack fa-1x fa-pull-left">
-  <i class="fas fa-circle fa-stack-2x"></i>
-  <i class="fas fa-sun fa-stack-1x fa-inverse"></i>
-</span>`
+ `<span class="fa-stack fa-1x fa-pull-left">`
+ 
+  `<i class="fas fa-circle fa-stack-2x"></i>`
+  
+  `<i class="fas fa-sun fa-stack-1x fa-inverse"></i>`
+  
+`</span>`
 
 This gets a sun icon (fa-sun) inside an orange circle and the styles are set to turn fa-stack black on hover.  Current example page is schedule.html.
 
