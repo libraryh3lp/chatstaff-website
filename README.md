@@ -22,4 +22,4 @@ In order to get the black-on-hover, the New Way is like this:
 
 This gets a sun icon (fa-sun) inside an orange circle and the styles are set to turn fa-stack black on hover.  Current example page is schedule.html.
 
-Production site last updated 2019-06-21 11:06am.  https://chatstaff.org/
+Production site last updated 2020-02-13.  https://chatstaff.org/
